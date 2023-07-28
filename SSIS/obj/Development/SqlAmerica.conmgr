@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SqlAmerica"
+  DTS:DTSID="{152B3B8A-7707-49B8-B98C-A8783E4B916A}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=alusoft.ddns.net;User ID=sa;Initial Catalog=America;Persist Security Info=True;Application Name=SSIS-SSIS-{152B3B8A-7707-49B8-B98C-A8783E4B916A}alusoft.ddns.net.America.sa;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnGtvfWqASk+QPUVHQKnlpgAAAAACAAAAAAAQZgAAAAEAACAAAAAPupYqLVSj1honyRcUMmB8IzvzrsHRQYRsTyffC2BuNAAAAAAOgAAAAAIAACAAAACZA2B0nSiHTxvK9oKx8Ev5e1Va9qNglkFm/33wOmL+J4AAAADbEkSHarmfnqQQRmNpJ3Gd8k1eKllOS10+5iT6bXyYVrLeVFyaz9sKEZsEZgP6m7aBBR6JgebNo52DYftagyJdSFKez+O+sPg+vbgpaXUdVuLJLM3FLQyhETytF0R9Ubb72wLOf2SXnvk8u/wGvClG2Mttxx7nN/3WjvPSrk3W00AAAACzeWCpSD7SkumSSZLjCA8ZR6tuwb/BuFN5he1yQsqv7bkDhJZZES1+h5UHpo2SQXq97A1umbMIAtv3W42YH4F0</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

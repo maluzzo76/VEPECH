@@ -1,0 +1,17 @@
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\bin\Debug\CMD_TestServices.exe.config
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\bin\Debug\CMD_TestServices.exe
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\bin\Debug\CMD_TestServices.pdb
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\bin\Debug\DS_Process.dll
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\bin\Debug\Log.dll
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\bin\Debug\ADO.dll
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\bin\Debug\EPPlus.dll
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\bin\Debug\Log.pdb
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\bin\Debug\DS_Process.pdb
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\bin\Debug\ADO.pdb
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\bin\Debug\EPPlus.xml
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\obj\Debug\CMD_TestServices.csproj.AssemblyReference.cache
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\obj\Debug\CMD_TestServices.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\obj\Debug\CMD_TestServices.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\obj\Debug\CMD_TestServices.csproj.CopyComplete
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\obj\Debug\CMD_TestServices.exe
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\CMD_TestServices\obj\Debug\CMD_TestServices.pdb

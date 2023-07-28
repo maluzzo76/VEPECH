@@ -1,0 +1,8 @@
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\DisamWS_Integration\bin\Release\DisamWS_Integration.exe.config
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\DisamWS_Integration\bin\Release\DisamWS_Integration.exe
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\DisamWS_Integration\bin\Release\DisamWS_Integration.pdb
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\DisamWS_Integration\obj\Release\DisamWS_Integration.csproj.AssemblyReference.cache
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\DisamWS_Integration\obj\Release\DisamWS_Integration.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\DisamWS_Integration\obj\Release\DisamWS_Integration.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\DisamWS_Integration\obj\Release\DisamWS_Integration.exe
+C:\Users\maria\Documents\Fuentes\DISAM\Source\DIsam_DW\DisamWS_Integration\obj\Release\DisamWS_Integration.pdb

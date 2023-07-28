@@ -34,6 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="SSIS Configs\Package2.dtsConfig" />
     <None Include="Tableros\Back Office.pbix" />
     <None Include="Tableros\Compras vs Ventas.pbix" />
     <None Include="Tableros\Compras.pbix" />

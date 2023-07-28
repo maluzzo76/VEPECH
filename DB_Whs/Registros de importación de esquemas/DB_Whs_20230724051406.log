@@ -1,0 +1,85 @@
+24/7/2023 14:14:06	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'DB_Whs' del equipo 'NOTEBOOK-DELL' por el usuario 'maria'.
+24/7/2023 14:14:06	Se inició la importación del esquema de la base de datos.
+24/7/2023 14:14:19	Recopilando credenciales de la base de datos
+24/7/2023 14:14:19	Recopilando opciones de base de datos
+24/7/2023 14:14:19	Recopilando la opción de configuración de ámbito de la base de datos genérica
+24/7/2023 14:14:19	Recopilando usuarios
+24/7/2023 14:14:19	Recopilando roles
+24/7/2023 14:14:19	Recopilando roles de aplicación
+24/7/2023 14:14:19	Recopilando pertenencias a roles
+24/7/2023 14:14:19	Recopilando grupos de archivos
+24/7/2023 14:14:19	Recopilando catálogos de texto completo
+24/7/2023 14:14:19	Recopilando ensamblados
+24/7/2023 14:14:19	Recopilando certificados
+24/7/2023 14:14:19	Recopilando claves asimétricas
+24/7/2023 14:14:19	Recopilando claves simétricas
+24/7/2023 14:14:19	Recopilando claves simétricas cifradas
+24/7/2023 14:14:19	Recopilando esquemas
+24/7/2023 14:14:19	Recopilando colecciones de esquemas XML
+24/7/2023 14:14:19	Recopilando tipos de datos definidos por el usuario
+24/7/2023 14:14:19	Recopilando tipos definidos por el usuario
+24/7/2023 14:14:19	Recopilando tipos de tabla
+24/7/2023 14:14:19	Recopilando claves únicas para tipos de tabla
+24/7/2023 14:14:19	Recopilando claves principales para tipos de tabla
+24/7/2023 14:14:19	Recopilando índices para tipos de tablas
+24/7/2023 14:14:19	Recopilando restricciones CHECK para tipos de tabla
+24/7/2023 14:14:19	Recopilando restricciones DEFAULT para tipos de tabla
+24/7/2023 14:14:19	Recopilando funciones de partición
+24/7/2023 14:14:19	Recopilando esquemas de partición
+24/7/2023 14:14:19	Recopilando funciones
+24/7/2023 14:14:19	Recopilando funciones cifradas
+24/7/2023 14:14:19	Recopilando agregados
+24/7/2023 14:14:19	Recopilando procedimientos
+24/7/2023 14:14:19	Recopilando procedimientos cifrados
+24/7/2023 14:14:19	Recopilando tablas
+24/7/2023 14:14:19	Recopilando claves principales
+24/7/2023 14:14:19	Recopilando restricciones UNIQUE
+24/7/2023 14:14:19	Recopilando claves externas
+24/7/2023 14:14:19	Recopilando restricciones DEFAULT
+24/7/2023 14:14:19	Recopilando restricciones CHECK
+24/7/2023 14:14:19	Recopilando vistas
+24/7/2023 14:14:19	Recopilando vistas cifradas
+24/7/2023 14:14:19	Recopilando índices
+24/7/2023 14:14:19	Recopilando estadísticas
+24/7/2023 14:14:19	Recopilando listas de palabras irrelevantes de índices de texto completo
+24/7/2023 14:14:19	Recopilando listas de propiedades de búsqueda
+24/7/2023 14:14:19	Recopilando propiedades de búsqueda
+24/7/2023 14:14:19	Recopilando índices de texto completo
+24/7/2023 14:14:19	Recopilando índices de almacenamiento de columnas
+24/7/2023 14:14:19	Recopilando índices espaciales
+24/7/2023 14:14:19	Recopilando índices XML
+24/7/2023 14:14:19	Recopilando índices XML selectivos
+24/7/2023 14:14:19	Recopilando desencadenadores cifrados
+24/7/2023 14:14:20	Recopilando desencadenadores
+24/7/2023 14:14:20	Recopilando DDL triggers cifrados y de CLR
+24/7/2023 14:14:20	Recopilando DDL triggers
+24/7/2023 14:14:20	Creación de la restricción perimetral en curso
+24/7/2023 14:14:20	Recopilando sinónimos
+24/7/2023 14:14:20	Recopilando valores predeterminados
+24/7/2023 14:14:20	Recopilando enlaces UDDT de restricción de datos
+24/7/2023 14:14:20	Recopilando reglas
+24/7/2023 14:14:20	Recopilando enlaces UDDT de restricción de datos
+24/7/2023 14:14:20	Recopilando tipos de mensaje
+24/7/2023 14:14:20	Recopilando colas
+24/7/2023 14:14:20	Recopilando contratos
+24/7/2023 14:14:20	Recopilando servicios
+24/7/2023 14:14:20	Recopilando notificaciones de eventos
+24/7/2023 14:14:20	Recopilando enlaces de servicio remoto
+24/7/2023 14:14:20	Recopilando prioridades de Broker
+24/7/2023 14:14:20	Recopilando firmas
+24/7/2023 14:14:20	Recopilando opciones de compresión
+24/7/2023 14:14:20	Recopilando tipos de secuencia
+24/7/2023 14:14:20	Recopilando directivas de seguridad
+24/7/2023 14:14:20	Recopilar claves de cifrado de columna
+24/7/2023 14:14:20	Recopilando claves maestras de columna
+24/7/2023 14:14:20	Recopilando orígenes de datos externos
+24/7/2023 14:14:20	Recopilando formatos de archivo externos
+24/7/2023 14:14:20	Recopilando tablas externas
+24/7/2023 14:14:20	Recopilando opciones de compresión de índice XML
+24/7/2023 14:14:20	Recopilando propiedades extendidas
+24/7/2023 14:14:20	Recopilando ensamblados
+24/7/2023 14:14:20	Buscando elementos duplicados en el proyecto
+24/7/2023 14:14:20	Ha finalizado el procesamiento de los elementos duplicados
+24/7/2023 14:14:21	Finalizó la importación de la base de datos.
+24/7/2023 14:14:21	Se guardó un resumen de la importación en la siguiente ubicación: D:\Fuentes\VPECH\Source\VEPECH\DB_Whs\Registros de importación de esquemas\DB_Whs_20230724051406.log
+24/7/2023 14:14:21	Haga clic en Finalizar para continuar...

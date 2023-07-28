@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="alusoft.ddns.net.WhsDisam.sa"
+  DTS:DTSID="{23E0A3C8-3266-451E-9CA2-26B8F03D0741}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=alusoft.ddns.net;User ID=sa;Initial Catalog=WhsDisam;Persist Security Info=True;Application Name=SSIS-SSIS-{23E0A3C8-3266-451E-9CA2-26B8F03D0741}alusoft.ddns.net.WhsDisam.sa;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnGtvfWqASk+QPUVHQKnlpgAAAAACAAAAAAAQZgAAAAEAACAAAAAGTKksEPsXzSeFLGUJbDP3ILOYL+1pBdZNCx/JQXSQHwAAAAAOgAAAAAIAACAAAAAw2dSpY46tIUyU7hnqYKiml/kXhseDQgSFYMB9M1lqRoAAAADqvy0o35LnwGGxF1hK6bHZbL1AATPLHu885GytYgq5cSLslwOnmgc48E+KJ4WOpnIHRiYQGcYQpxFY+pmVqcgrCD+py98NIxmitX5Ncx3BWIXKW8wwhYZ7Z3yY8qevxgfS9kLLIJpujSnfQnHxhYgNFKy3fQmtEcOIzSb+IHML70AAAACXE8EVq8yxm+WPWOOY+aYOSo2wsJ3dhGy3+O8VAwyi6iQOCSpx4j0DJfcw8Ds3f84jBSbhFVLcr0zHJcT8rFxW</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
