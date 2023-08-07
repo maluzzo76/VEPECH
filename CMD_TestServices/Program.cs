@@ -96,7 +96,8 @@ namespace CMD_TestServices
             try
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Log.Write.WriteTextInConsole("Extrayendo Backup Diario");                
+                Log.Write.WriteTextInConsole("Extrayendo Backup Diario");
+                Log.Write.WriteSoloFile("Extrayendo Backup Diario");
                 //limpia folder out
                 if (Directory.Exists(folderOut))
                     Directory.Delete(folderOut,true);
@@ -106,8 +107,9 @@ namespace CMD_TestServices
 
                 foreach (string _file in Directory.GetFiles(FolderZip))
                 {
+                    DateTime _dateBk = DateTime.Now.AddDays(-1);
                     FileInfo _fi = new FileInfo(_file);
-                    if (_fi.CreationTime.Date == DateTime.Now.Date)
+                    if (_fi.CreationTime.Date == _dateBk.Date )
                     {
                         Log.Write.WriteTextInConsole(_file);
 
@@ -116,6 +118,7 @@ namespace CMD_TestServices
 
                         ZipFile.ExtractToDirectory(_file, folderOut);
                         Log.Write.WriteTextInConsole(string.Format("Backup descomprimido exitosamente."));
+                        Log.Write.WriteSoloFile("Backup descomprimido exitosamente.");
                     }
                 }
 
