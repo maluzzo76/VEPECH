@@ -31,6 +31,7 @@ namespace CMD_TestServices
 
             Console.ForegroundColor = ConsoleColor.White;
 
+            /*
             Log.Write.WriteTextInConsole("====================================");
             Log.Write.WriteTextInConsole("======== EXTRACT ZIP BACKUP ========");
             Log.Write.WriteTextInConsole("====================================");
@@ -42,7 +43,7 @@ namespace CMD_TestServices
             Log.Write.WriteTextInConsole("====================================");
 
             DS_Process.Process.RestoreDB(GetAppConfigValue("PathFileBKout"), GetAppConfigValue("BkDbName"), GetAppConfigValue("PathFileBKServer"), GetAppConfigValue("PathSQLData"));
-                        
+            */    
             
             Log.Write.WriteTextInConsole("====================================");
             Log.Write.WriteTextInConsole("===== IMPORT DATA FROM AMERICA =====");

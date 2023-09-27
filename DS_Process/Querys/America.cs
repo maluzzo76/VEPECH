@@ -65,7 +65,7 @@ namespace DS_Process.Querys
                 return "select 'COMPRA' TipoTrasaccion, " +
                         "convert(char,  fc.fecha_regis,112) Fecha_codi, " +
                         "pr.produc, " +
-                        "p.codi Prov_codi, " +
+                        "fc.proveedor Prov_codi, " +
                         "null cliente_codi, " +
                         "null vende, " +
                         "'000' super, " +
@@ -84,13 +84,10 @@ namespace DS_Process.Querys
                         "    left join uni_medi_produc_conver uc on uc.produc = pr.produc and uc.uni1 = pr.uni_medi_compra and uc.uni2 = 'KG' " +
                         "    left join uni_medi_produc_conver ucb on ucb.produc = pr.produc and ucb.uni1 = pr.uni_medi_compra and ucb.uni2 = 'BU' " +
                         "    left join uni_medi_produc_conver ucl on ucl.produc = pr.produc and ucl.uni1 = pr.uni_medi_compra and ucl.uni2 = 'Li' " +
-                        "    inner join produc_deta pd on pd.produc = pr.produc" +
-                        "    inner join proveedores p on p.codi = fc.proveedor " +
-                        "where pd.depo = 1 " +
-                        "and year(fc.fecha_regis) = " + year.ToString() + " " +
+                        "where year(fc.fecha_regis) = " + year.ToString() + " " +
                         "group by " +
                         "fc.fecha_regis, " +
-                        "p.codi, " +
+                        "fc.proveedor, " +
                         "pr.produc, " +
                         "pr.agru_5, " +
                         "pr.agru_1, " +
